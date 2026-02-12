@@ -2,3 +2,8 @@
 Console.WriteLine("Mrd, World!");
 Console.WriteLine("Mohammad");
 int x=0;
+
+static void Test()
+{
+    Console.WriteLine("Test");
+}
